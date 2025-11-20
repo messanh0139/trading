@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 # trading
-=======
+
 # Projet d'Apprentissage par Renforcement pour le Trading
 
 ## 1. Description
@@ -32,7 +31,7 @@ Pour exécuter ce projet, suivez les étapes ci-dessous.
 
 1.  **Clonez le dépôt (exemple) :**
     ```bash
-    git clone https://votre-lien-vers-le-projet.git
+    git clone https://github.com/messanh0139/trading.git
     cd KODJO_TP06_TP07_RL
     ```
 
@@ -59,4 +58,3 @@ Pour exécuter ce projet, suivez les étapes ci-dessous.
 3.  Pour garantir que toutes les variables sont correctement initialisées, il est conseillé d'exécuter toutes les cellules dans l'ordre. Vous pouvez le faire via le menu **"Kernel" -> "Restart & Run All"**.
 
 Les résultats, y compris les graphiques comparatifs, seront affichés à la fin du notebook.
->>>>>>> a538811 (first sending)
